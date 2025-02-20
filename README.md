@@ -15,6 +15,6 @@ We Need to create virtual Environement "venv" Command :>>> python -m venv venv
  need to install requirements.txt : command : >>> python -r requirements.txt 
  
 
->>> uvicorn main:app --reload
+RUN Command: >>> uvicorn main:app --reload
 
 One thing I’m sorry about: my machine is not supporting SQL. I am not able to connect to SQL. Except for the SQL connection string, everything else is completed.
