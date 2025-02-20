@@ -3,10 +3,17 @@ Python Developer Assessment - REST API Development
 
 
 # To Run the application 
-Setup instructions
+#Setup instructions
+
+
 We Need to create virtual Environement "venv" Command :>>> python -m venv venv
+
+
  need to Activate "venv" Command : >>>  .\Scripts\activate venv 
- need to install requirements.txt : command : >>> python -r requirements.txt  
+
+ 
+ need to install requirements.txt : command : >>> python -r requirements.txt 
+ 
 
 >>> uvicorn main:app --reload
 
