@@ -10,4 +10,4 @@ We Need to create virtual Environement "venv" Command :>>> python -m venv venv
 
 >>> uvicorn main:app --reload
 
-One thing I am sorry. my Machine not supporting SQL. I am not Able to connecting that SQL. Except SQL Connections string rest of all completed.
+One thing I’m sorry about: my machine is not supporting SQL. I am not able to connect to SQL. Except for the SQL connection string, everything else is completed.
